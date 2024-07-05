@@ -2,8 +2,13 @@
     "information": {
         "name": "QuakeGX",
         "author": "OtterDev",
+        "authors": [
+            "Eluan Piko",
+            "Peter Mackay"
+        ],
         "author_preferred_contacts": "",
         "category": "games",
+        "supported_platforms": ["wii", "wii_mini"],
         "peripherals": ["Wii Remote", "Nunchuk", "GameCube Controller", "Classic Controller", "USB Keyboard"],
         "version": "auto"
     },
