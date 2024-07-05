@@ -9,7 +9,7 @@
         "author_preferred_contacts": "",
         "category": "games",
         "supported_platforms": ["wii", "wii_mini"],
-        "peripherals": ["Wii Remote", "Nunchuk", "GameCube Controller", "Classic Controller", "USB Keyboard"],
+        "peripherals": ["Wii Remote", "Nunchuk", "GameCube Controller", "Classic Controller", "USB Keyboard", "SDHC"],
         "version": "auto"
     },
     "source": {
