@@ -1,0 +1,22 @@
+{
+    "information": {
+        "name": "QuakeGX",
+        "author": "OtterDev",
+        "author_preferred_contacts": "",
+        "category": "games",
+        "peripherals": ["Wii Remote", "Nunchuk", "GameCube Controller", "Classic Controller", "USB Keyboard"],
+        "version": "auto"
+    },
+    "source": {
+        "type": "github_release",
+        "format": "zip",
+        "repository": "OtterCodes101/quakegx-wii",
+        "file": "quake.zip"
+    },
+    "treatments": [
+        {
+            "treatment": "contents.move",
+            "arguments": ["quake/", "apps/quake/"]
+        }
+    ]
+}
